@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T12:42:07.780Z" agent="5.0 (X11)" etag="oqfaWTErO3m2fp6ZmfKT" version="14.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-18T17:00:18.600Z" agent="5.0 (X11)" etag="oJUMVB7If_vRP1UoIXh2" version="14.2.3" type="github" pages="5">
   <diagram id="sDgxa24OsElO72DxJ5_U" name="Volunteer Process Diagram">
     <mxGraphModel dx="917" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,6 +160,9 @@
         <mxCell id="86q6UfhKlXDIWfvsvvhc-57" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="65" y="630" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0n6iynA_EFKx_TQvShhQ-1" value="I would like to sign up to volunteer as a harvester..." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="184" y="20" width="460" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -168,38 +171,400 @@
       <root>
         <mxCell id="8DCHzktPFJJlF9k0jkfY-0" />
         <mxCell id="8DCHzktPFJJlF9k0jkfY-1" parent="8DCHzktPFJJlF9k0jkfY-0" />
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="8DCHzktPFJJlF9k0jkfY-2" target="HL_lkmb4XdjiCVKtfWlf-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8DCHzktPFJJlF9k0jkfY-2" value="&lt;div&gt;Enter Sweet Pickings Platform&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
-          <mxGeometry x="60" y="80" width="150" height="70" as="geometry" />
+          <mxGeometry x="70" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-3" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="HL_lkmb4XdjiCVKtfWlf-0" target="HL_lkmb4XdjiCVKtfWlf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-4" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="HL_lkmb4XdjiCVKtfWlf-0" target="YjcYqsyPNZ0FfRU9KFpX-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HL_lkmb4XdjiCVKtfWlf-0" value="Does tree owner have account?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
           <mxGeometry x="50" y="200" width="170" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="HL_lkmb4XdjiCVKtfWlf-1" target="HL_lkmb4XdjiCVKtfWlf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HL_lkmb4XdjiCVKtfWlf-1" value="Navigate to registration page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
           <mxGeometry x="280" y="235" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="HL_lkmb4XdjiCVKtfWlf-2" target="ShZjci9leOZy_znX633k-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HL_lkmb4XdjiCVKtfWlf-2" value="Read and agree to basic tree owner expectations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
-          <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="ShZjci9leOZy_znX633k-0" target="K7nrUhOMa2KH0_IdhJPj-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ShZjci9leOZy_znX633k-0" value="&lt;div&gt;Enter personal information, ID verification, and orchard/tree information&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
-          <mxGeometry x="620" y="220" width="170" height="80" as="geometry" />
+          <mxGeometry x="620" y="225" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="K7nrUhOMa2KH0_IdhJPj-0" target="K7nrUhOMa2KH0_IdhJPj-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7nrUhOMa2KH0_IdhJPj-0" value="Wait for account to be approved" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
           <mxGeometry x="670" y="440" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="K7nrUhOMa2KH0_IdhJPj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K7nrUhOMa2KH0_IdhJPj-1" value="Create opportunity for harvest. Some info can be populated automatically from account details, and owner just sets date for harvest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
-          <mxGeometry x="360" y="430" width="190" height="80" as="geometry" />
+          <mxGeometry x="340" y="430" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="YjcYqsyPNZ0FfRU9KFpX-0" target="YjcYqsyPNZ0FfRU9KFpX-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YjcYqsyPNZ0FfRU9KFpX-0" value="Create expected crop listing, what will be available and when " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
-          <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="YjcYqsyPNZ0FfRU9KFpX-1" target="cj2ENHbl9NQCRPPgupD_-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YjcYqsyPNZ0FfRU9KFpX-1" value="Wait for organisations to sign up to take the crop" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
-          <mxGeometry x="120" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="YjcYqsyPNZ0FfRU9KFpX-2" target="cj2ENHbl9NQCRPPgupD_-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YjcYqsyPNZ0FfRU9KFpX-2" value="Browse registered organisations and contact them about crop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
-          <mxGeometry x="354" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="cj2ENHbl9NQCRPPgupD_-0" target="cj2ENHbl9NQCRPPgupD_-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cj2ENHbl9NQCRPPgupD_-0" value="Arrange logistics for crop collection/delivery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
-          <mxGeometry x="230" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-13" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" target="YjcYqsyPNZ0FfRU9KFpX-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="550" as="sourcePoint" />
+            <mxPoint x="400" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DCHzktPFJJlF9k0jkfY-1" source="cj2ENHbl9NQCRPPgupD_-14" target="cj2ENHbl9NQCRPPgupD_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-14" value="Wait for harvest date, can cancel and view volunteer updates" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
+          <mxGeometry x="165" y="880" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cj2ENHbl9NQCRPPgupD_-16" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
+          <mxGeometry x="190" y="1020" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eLyp1ztG3vtVc37_dUzY-0" value="I own a tree or trees that I am willing to have harvested..." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="8DCHzktPFJJlF9k0jkfY-1">
+          <mxGeometry x="154" y="20" width="520" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yQCWYkuBkpNhw98x7VZ1" name="Platform Visitor">
+    <mxGraphModel dx="917" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-0" />
+        <mxCell id="0pFslXDfZNCtD39tlKiF-1" parent="0pFslXDfZNCtD39tlKiF-0" />
+        <mxCell id="0pFslXDfZNCtD39tlKiF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0pFslXDfZNCtD39tlKiF-1" source="0pFslXDfZNCtD39tlKiF-2" target="0pFslXDfZNCtD39tlKiF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0pFslXDfZNCtD39tlKiF-1" source="0pFslXDfZNCtD39tlKiF-2" target="0pFslXDfZNCtD39tlKiF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0pFslXDfZNCtD39tlKiF-1" source="0pFslXDfZNCtD39tlKiF-2" target="0pFslXDfZNCtD39tlKiF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0pFslXDfZNCtD39tlKiF-1" source="0pFslXDfZNCtD39tlKiF-2" target="0pFslXDfZNCtD39tlKiF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0pFslXDfZNCtD39tlKiF-1" source="0pFslXDfZNCtD39tlKiF-2" target="0pFslXDfZNCtD39tlKiF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0pFslXDfZNCtD39tlKiF-1" source="0pFslXDfZNCtD39tlKiF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0pFslXDfZNCtD39tlKiF-1" source="0pFslXDfZNCtD39tlKiF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-2" value="Enter Sweet Pickings Platform" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="430" y="104" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-3" value="Learn about the platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="20" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-4" value="&lt;div&gt;Browse opportunities&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="580" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-5" value="Learn about the process of volunteering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="300" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-6" value="Learn about the process of offering a tree" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="160" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-7" value="Report knowledge of harvestable trees on council land" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="441" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-8" value="&lt;div&gt;Sign up as volunteer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="860" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pFslXDfZNCtD39tlKiF-9" value="Sign up as tree owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="720" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEt7CKhDsbwbtlbmZ9Xr-0" value="I am an unidentified visitor to the Sweet Pickings website/platform..." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="0pFslXDfZNCtD39tlKiF-1">
+          <mxGeometry x="175" y="15" width="610" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MrOF2Y7iwQ4jwXxiVT3a" name="Recipient Organisation Process Diagram">
+    <mxGraphModel dx="917" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PjyOFWotHNRVxRyLIDkM-0" />
+        <mxCell id="PjyOFWotHNRVxRyLIDkM-1" parent="PjyOFWotHNRVxRyLIDkM-0" />
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="PjyOFWotHNRVxRyLIDkM-2" target="PjyOFWotHNRVxRyLIDkM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PjyOFWotHNRVxRyLIDkM-2" value="Enter Sweet Pickings Platform" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="70" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-2" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="PjyOFWotHNRVxRyLIDkM-3" target="_yE44OYJagounuqdrXia-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-10" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="PjyOFWotHNRVxRyLIDkM-3" target="HTL-R-xFoNBv-DwiHbaN-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PjyOFWotHNRVxRyLIDkM-3" value="Does organisation have account?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="80" y="210" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="_yE44OYJagounuqdrXia-0" target="_yE44OYJagounuqdrXia-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_yE44OYJagounuqdrXia-0" value="Navigate to registration page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="_yE44OYJagounuqdrXia-1" target="_yE44OYJagounuqdrXia-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_yE44OYJagounuqdrXia-1" value="Read and agree to recipient expectations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="_yE44OYJagounuqdrXia-2" target="_yE44OYJagounuqdrXia-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_yE44OYJagounuqdrXia-2" value="Enter organisation information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="_yE44OYJagounuqdrXia-3" target="JMDx4Lc33y0_ocxMnY0y-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_yE44OYJagounuqdrXia-3" value="Wait for account to be verified " style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="630" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-3" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="JMDx4Lc33y0_ocxMnY0y-0" target="HTL-R-xFoNBv-DwiHbaN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-4" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="JMDx4Lc33y0_ocxMnY0y-0" target="HTL-R-xFoNBv-DwiHbaN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JMDx4Lc33y0_ocxMnY0y-0" value="&lt;div&gt;Has account been approved?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="450" y="382.5" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="fQBOlenFs-_-4xb0n39H-0" target="JMDx4Lc33y0_ocxMnY0y-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQBOlenFs-_-4xb0n39H-0" value="Browse available crops" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="270" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="HTL-R-xFoNBv-DwiHbaN-0" target="fQBOlenFs-_-4xb0n39H-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-0" value="Log in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="80" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="HTL-R-xFoNBv-DwiHbaN-11" target="HTL-R-xFoNBv-DwiHbaN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-11" value="&lt;div&gt;Sign up to receive expected crop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="550" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="HTL-R-xFoNBv-DwiHbaN-12" target="HTL-R-xFoNBv-DwiHbaN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-12" value="Be contacted by tree owner about upcoming crop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="HTL-R-xFoNBv-DwiHbaN-13" target="HTL-R-xFoNBv-DwiHbaN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-13" value="Arrange collection/delivery logistics with tree owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="450" y="740" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="HTL-R-xFoNBv-DwiHbaN-14" target="HTL-R-xFoNBv-DwiHbaN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-14" value="Receive crop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="460" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="HTL-R-xFoNBv-DwiHbaN-15" target="CzlLRShU40YR7zSbHwOj-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTL-R-xFoNBv-DwiHbaN-15" value="Be prompted to leave feedback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="270" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PjyOFWotHNRVxRyLIDkM-1" source="CzlLRShU40YR7zSbHwOj-0" target="CzlLRShU40YR7zSbHwOj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-0" value="Leave feedback on crop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="80" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzlLRShU40YR7zSbHwOj-2" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="90" y="1070" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bob1BOzCGd3NG81rKDwI-0" value="We are an organisation who could put crops to use..." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="PjyOFWotHNRVxRyLIDkM-1">
+          <mxGeometry x="190" y="25" width="480" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BM6gd6moy3vVOfks2AVp" name="Identifying Tree/s Process Diagram">
+    <mxGraphModel dx="917" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="3-5ut65lDY98oGA54PvN-0" />
+        <mxCell id="3-5ut65lDY98oGA54PvN-1" parent="3-5ut65lDY98oGA54PvN-0" />
+        <mxCell id="3-5ut65lDY98oGA54PvN-2" value="I know of a tree/trees on public/council land that are harvestable..." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="150" y="50" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="3-5ut65lDY98oGA54PvN-3" target="SvTu_9c_XJDrOD5lQW4r-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-5ut65lDY98oGA54PvN-3" value="Enter Sweet Pickings platform" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="60" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="SvTu_9c_XJDrOD5lQW4r-0" target="SvTu_9c_XJDrOD5lQW4r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvTu_9c_XJDrOD5lQW4r-0" value="Navigate to report a tree form" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="SvTu_9c_XJDrOD5lQW4r-1" target="SvTu_9c_XJDrOD5lQW4r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvTu_9c_XJDrOD5lQW4r-1" value="Fill out form with information about the tree, and the reporter&#39;s contact details" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="270" y="260" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="SvTu_9c_XJDrOD5lQW4r-2" target="EkbKCBfGuICEGSVGrPpn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvTu_9c_XJDrOD5lQW4r-2" value="Sweet Pickings receive information" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="520" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-15" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="EkbKCBfGuICEGSVGrPpn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-16" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="EkbKCBfGuICEGSVGrPpn-1" target="EkbKCBfGuICEGSVGrPpn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EkbKCBfGuICEGSVGrPpn-1" value="Does tree/trees already exist in database?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="525" y="405" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EkbKCBfGuICEGSVGrPpn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="510" as="sourcePoint" />
+            <mxPoint x="750" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="EkbKCBfGuICEGSVGrPpn-4" target="EkbKCBfGuICEGSVGrPpn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EkbKCBfGuICEGSVGrPpn-4" value="Contact council for approval" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="294" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-19" value="&lt;div&gt;Yes&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="EkbKCBfGuICEGSVGrPpn-5" target="bKE41vJChYU3XI3Wxj7N-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EkbKCBfGuICEGSVGrPpn-5" value="Have council given approval?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="80" y="600" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="EkbKCBfGuICEGSVGrPpn-6" target="EkbKCBfGuICEGSVGrPpn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EkbKCBfGuICEGSVGrPpn-6" value="Wait for council approval" style="shape=delay;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="80" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="bKE41vJChYU3XI3Wxj7N-0" target="bKE41vJChYU3XI3Wxj7N-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-0" value="Post harvest opportunity and crop listing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="400" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="bKE41vJChYU3XI3Wxj7N-1" target="bKE41vJChYU3XI3Wxj7N-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-1" value="Set automatic reccurrance of havest opportunity and crop listing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="560" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="bKE41vJChYU3XI3Wxj7N-2" target="bKE41vJChYU3XI3Wxj7N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-2" value="Volunteers sign up to harvest" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="560" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="bKE41vJChYU3XI3Wxj7N-3" target="bKE41vJChYU3XI3Wxj7N-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-3" value="Organisation sign up to receive crop" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="405" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="bKE41vJChYU3XI3Wxj7N-4" target="bKE41vJChYU3XI3Wxj7N-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-4" value="Organisation and volunteer contact details are shared so they can organise crop collection/delivery" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="180" y="790" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="bKE41vJChYU3XI3Wxj7N-5" target="bKE41vJChYU3XI3Wxj7N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-5" value="&lt;div&gt;Volunteers are sent prompt to feedback&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="205" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="bKE41vJChYU3XI3Wxj7N-6" target="bKE41vJChYU3XI3Wxj7N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-6" value="Volunteers provide feedback on tree/trees" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="405" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-7" value="&lt;div&gt;End&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="580" y="960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" source="bKE41vJChYU3XI3Wxj7N-14" target="bKE41vJChYU3XI3Wxj7N-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-14" value="Create profile for the tree/trees" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="240" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-20" value="Respond to reporter, thank them, and let them know" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=12;" vertex="1" parent="3-5ut65lDY98oGA54PvN-1">
+          <mxGeometry x="700" y="440" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bKE41vJChYU3XI3Wxj7N-25" value="No" style="endArrow=classic;html=1;fontSize=12;entryX=0.86;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3-5ut65lDY98oGA54PvN-1" target="EkbKCBfGuICEGSVGrPpn-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154" y="626" as="sourcePoint" />
+            <mxPoint x="260" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
