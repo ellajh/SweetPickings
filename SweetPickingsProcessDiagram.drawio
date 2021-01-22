@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T16:38:00.844Z" agent="5.0 (X11)" etag="USSwDgmqRAJgEXyM8yRV" version="14.2.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-22T16:47:18.250Z" agent="5.0 (X11)" etag="YNuhexSwZR1PM8GnY8Bc" version="14.2.4" type="github" pages="7">
   <diagram id="sDgxa24OsElO72DxJ5_U" name="Volunteer Process Diagram">
     <mxGraphModel dx="1566" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -570,7 +570,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SbfJ4Qh7sYPxkqvCAbh9" name="High Level Overview">
-    <mxGraphModel dx="1792" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2633" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MEdo0hBwTb1P0hMT4G23-0" />
         <mxCell id="MEdo0hBwTb1P0hMT4G23-1" parent="MEdo0hBwTb1P0hMT4G23-0" />
@@ -594,7 +594,7 @@
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-2" value="" style="endArrow=none;html=1;" edge="1" parent="MEdo0hBwTb1P0hMT4G23-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="870" as="sourcePoint" />
+            <mxPoint x="-800" y="1720" as="sourcePoint" />
             <mxPoint x="-800" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -755,28 +755,28 @@
           <mxGeometry x="-160" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-32" value="Complete the harvest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEdo0hBwTb1P0hMT4G23-1">
-          <mxGeometry x="-760" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-760" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-33" value="Collects/takes crop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEdo0hBwTb1P0hMT4G23-1">
-          <mxGeometry x="-160" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MEdo0hBwTb1P0hMT4G23-1" source="qn7MhM3edovhIxXx_geQ-34" target="qn7MhM3edovhIxXx_geQ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-34" value="&lt;div&gt;Prompted to rate the Harvest&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="MEdo0hBwTb1P0hMT4G23-1">
-          <mxGeometry x="-360" y="1540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-360" y="1597" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MEdo0hBwTb1P0hMT4G23-1" source="qn7MhM3edovhIxXx_geQ-35" target="qn7MhM3edovhIxXx_geQ-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-35" value="&lt;div&gt;Prompted to rate the tree/orchard&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="MEdo0hBwTb1P0hMT4G23-1">
-          <mxGeometry x="-770" y="1540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-760" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-36" value="Provide rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEdo0hBwTb1P0hMT4G23-1">
-          <mxGeometry x="-360" y="1650" width="120" height="60" as="geometry" />
+          <mxGeometry x="-360" y="1706" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-37" value="Provide rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEdo0hBwTb1P0hMT4G23-1">
-          <mxGeometry x="-770" y="1650" width="120" height="60" as="geometry" />
+          <mxGeometry x="-760" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-38" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;Picker &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Volunteer / Leader / Expert)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="MEdo0hBwTb1P0hMT4G23-1">
           <mxGeometry x="-810" y="30" width="220" height="50" as="geometry" />
@@ -807,6 +807,94 @@
         </mxCell>
         <mxCell id="qn7MhM3edovhIxXx_geQ-68" value="&lt;div&gt;Organisation is assigned crop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEdo0hBwTb1P0hMT4G23-1">
           <mxGeometry x="-160" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="N-bJw3dlo1RjBj2z3TK7" name="Onboarding Process Diagram">
+    <mxGraphModel dx="1806" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-0" />
+        <mxCell id="yTXvekWKXmKLBop2xPB6-1" parent="yTXvekWKXmKLBop2xPB6-0" />
+        <mxCell id="yTXvekWKXmKLBop2xPB6-2" value="User clicks &#39;register/sign up&#39; on Sweet Pickings Platform" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="300" y="80" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-8" value="Picker" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="yTXvekWKXmKLBop2xPB6-1" source="yTXvekWKXmKLBop2xPB6-4" target="yTXvekWKXmKLBop2xPB6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-4" value="Select whether they are signing up as tree owner, picker, or recipient organisation" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="300" y="230" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-5" value="Read and agree to picker volunteer agreement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="580" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-6" value="Read and agree to tree owner volunteer agreement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="810" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-7" value="Read and agree to recipient volunteer agreement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="1030" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-10" value="Tree Owner" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yTXvekWKXmKLBop2xPB6-1" target="yTXvekWKXmKLBop2xPB6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="290" as="sourcePoint" />
+            <mxPoint x="650" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="240" />
+              <mxPoint x="870" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-11" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yTXvekWKXmKLBop2xPB6-1" target="yTXvekWKXmKLBop2xPB6-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="240" as="sourcePoint" />
+            <mxPoint x="940" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-12" value="Supply personal details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="580" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-13" value="Supply personal details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="810" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-14" value="Supply organisational details " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="1030" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-15" value="Supply ID verification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="580" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-16" value="Supply ID verification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="810" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-17" value="Supply organisation ID (e.g. charity number)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="1030" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-18" value="Wait for Sweet Pickings Admin to verify personal or organisational ID" style="shape=delay;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry x="300" y="770" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yTXvekWKXmKLBop2xPB6-1" target="yTXvekWKXmKLBop2xPB6-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1089.5" y="660" as="sourcePoint" />
+            <mxPoint x="370" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="720" />
+              <mxPoint x="383" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-26" value="" style="endArrow=none;html=1;" edge="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="720" as="sourcePoint" />
+            <mxPoint x="869.5" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTXvekWKXmKLBop2xPB6-27" value="" style="endArrow=none;html=1;" edge="1" parent="yTXvekWKXmKLBop2xPB6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="720" as="sourcePoint" />
+            <mxPoint x="639.5" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
