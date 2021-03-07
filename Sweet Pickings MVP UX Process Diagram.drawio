@@ -1,1 +1,191 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T18:44:11.540Z" agent="5.0 (X11)" version="14.4.4" etag="Wah2dt0y_WLqygeCGAb4" type="github"><diagram id="0Zd1Y9yQ0Hyb-goj2nON">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-07T21:02:53.068Z" agent="5.0 (X11)" etag="MWOLdqeZLpzKvyGO2zC6" version="14.4.4" type="github">
+  <diagram id="0Zd1Y9yQ0Hyb-goj2nON" name="Picker and Tree Owner">
+    <mxGraphModel dx="1590" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-2" value="Land on Sweet Pickings homepage" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-4" target="wjMGMr0faqHs7K19Zr8n-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-4" value="Sign up page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-6" target="wjMGMr0faqHs7K19Zr8n-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-6" value="Complete harvest training/certification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-8" target="wjMGMr0faqHs7K19Zr8n-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-8" value="&lt;div&gt;Sign up to harvest opportunities&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-10" target="wjMGMr0faqHs7K19Zr8n-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-10" value="Wait for account for be verified" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-12" target="wjMGMr0faqHs7K19Zr8n-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-12" value="Attend harvest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-14" target="wjMGMr0faqHs7K19Zr8n-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-14" value="Be prompted to leave feedback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-16" target="wjMGMr0faqHs7K19Zr8n-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-16" value="Leave feedback on the tree/trees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-17" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-18" value="Picker User Experience " style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="555" y="50" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-20" target="wjMGMr0faqHs7K19Zr8n-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-20" value="Complete registration process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-22" value="Land on Sweet Pickings homepage" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-24" target="wjMGMr0faqHs7K19Zr8n-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-24" value="Sign up page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-26" target="wjMGMr0faqHs7K19Zr8n-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-26" value="Complete tree owner training/certification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-28" target="wjMGMr0faqHs7K19Zr8n-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-28" value="Create tree profiles under &#39;My Trees&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-30" target="wjMGMr0faqHs7K19Zr8n-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-30" value="Wait for account for be verified" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-32" target="wjMGMr0faqHs7K19Zr8n-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-32" value="Create harvest opportunities " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-34" target="wjMGMr0faqHs7K19Zr8n-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-34" value="Trees are harvested" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-36" target="wjMGMr0faqHs7K19Zr8n-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-36" value="Leave feedback on the tree/trees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-37" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-39" target="wjMGMr0faqHs7K19Zr8n-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-39" value="Complete registration process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-41" target="wjMGMr0faqHs7K19Zr8n-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-41" value="Wait for coordinator to confirm " style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="800" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-43" target="wjMGMr0faqHs7K19Zr8n-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-43" value="Wait for volunteers to sign up and coordinator to assign volunteers" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95" y="930" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjMGMr0faqHs7K19Zr8n-45" target="wjMGMr0faqHs7K19Zr8n-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-45" value="Be prompted to leave feedback on the harvest group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-46" value="Tree Owner User Experience " style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="25" y="50" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-47" value="1A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="195" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-48" value="4A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-49" value="4B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-50" value="4C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="195" y="490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-51" value="5H" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="210" y="610" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-52" value="5G" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="210" y="730" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-53" value="5F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-54" value="1A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="710" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-55" value="4A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="715" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-56" value="4B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="710" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-57" value="4C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="695" y="490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-58" value="5H" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="720" y="610" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjMGMr0faqHs7K19Zr8n-59" value="2B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="710" y="730" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
